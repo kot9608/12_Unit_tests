@@ -60,7 +60,7 @@ public class CalculatorTest {
 //        System.out.printf("100 со скидкой 1% = %d",Calculator.calculatingDiscount(100,1));
 //        System.out.println(Calculator.calculatingDiscount(100,1));
 
-        assert 919 == Calculator.calculatingDiscount(100, 1);
+        assert 99 == Calculator.calculatingDiscount(100, 1);
 //         assertThatThrownBy(() ->
 //                 seminars.first.Calculator.Calculator.squareRootExtraction(0, 1, -1)
 //         ).isInstanceOf(SomeStateException.class);

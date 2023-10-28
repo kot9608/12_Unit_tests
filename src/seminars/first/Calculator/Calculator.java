@@ -39,7 +39,7 @@ public class Calculator {
 //            }
 //            return Math.sqrt(num);
 //    }
-
+//
     // Нужно написать в калькуляторе метод вычисления суммы покупки со скидкой и проверить его, используя AssertJ
     // Примерная сигнатура и тело метода:
     public static double calculatingDiscount(double purchaseAmount, int discountAmount) {
